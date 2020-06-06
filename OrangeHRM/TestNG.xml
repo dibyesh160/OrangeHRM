@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GroupRun" verbose="1" >
+<test name="GroupRun">
+
+<classes>
+<class name="com.hrms.testscripts.Tc_001"/>
+<class name="com.hrms.testscripts.Tc_002"/>
+</classes>
+</test>
+</suite>
+
+
+
+

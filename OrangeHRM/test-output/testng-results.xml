@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[got title]]>
+    </line>
+    <line>
+      <![CDATA[Login Sucessful]]>
+    </line>
+    <line>
+      <![CDATA[Logout Sucessful]]>
+    </line>
+    <line>
+      <![CDATA[got title]]>
+    </line>
+    <line>
+      <![CDATA[Login Sucessful]]>
+    </line>
+    <line>
+      <![CDATA[Logout Sucessful]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-06-05T14:26:55Z" name="GroupRun" finished-at="2020-06-05T14:27:50Z" duration-ms="54905">
+    <groups>
+    </groups>
+    <test started-at="2020-06-05T14:26:55Z" name="GroupRun" finished-at="2020-06-05T14:27:50Z" duration-ms="54905">
+      <class name="com.hrms.testscripts.Tc_002">
+        <test-method signature="addemployee()[pri:0, instance:com.hrms.testscripts.Tc_002@1372ed45]" started-at="2020-06-05T19:57:14Z" name="addemployee" finished-at="2020-06-05T19:57:50Z" duration-ms="35890" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[got title]]>
+            </line>
+            <line>
+              <![CDATA[Login Sucessful]]>
+            </line>
+            <line>
+              <![CDATA[Logout Sucessful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addemployee -->
+      </class> <!-- com.hrms.testscripts.Tc_002 -->
+      <class name="com.hrms.testscripts.Tc_001">
+        <test-method signature="Startup()[pri:0, instance:com.hrms.testscripts.Tc_001@4df828d7]" started-at="2020-06-05T19:56:55Z" name="Startup" finished-at="2020-06-05T19:57:14Z" duration-ms="18985" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[got title]]>
+            </line>
+            <line>
+              <![CDATA[Login Sucessful]]>
+            </line>
+            <line>
+              <![CDATA[Logout Sucessful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+      </class> <!-- com.hrms.testscripts.Tc_001 -->
+    </test> <!-- GroupRun -->
+  </suite> <!-- GroupRun -->
+</testng-results>
